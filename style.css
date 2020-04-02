@@ -1,9 +1,21 @@
-body {
-    background-color: #85144b;
-    font-family: 'Roboto Slab', serif;
-}
-
-h2,
-h4 {
-    color: #FF851B;
-}
+    body {
+        background-color: #85144b;
+        font-family: 'Roboto Slab', serif;
+    }
+    
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: white;
+        text-align: center;
+        font-weight: bold;
+    }
+    
+    h1,
+    h4 {
+        color: #FF851B;
+        text-align: center;
+        margin: auto;
+    }
